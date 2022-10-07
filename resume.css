@@ -1,0 +1,105 @@
+body {
+    /* background-color: black; */
+    margin: 0px;
+    font-family: system-ui, "Nerd";
+}
+
+p {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.page {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    width: 21cm;
+}
+
+.left-part {
+    height: 29.45cm;
+    background-color: #E3E6EC;
+    color: #31373D;
+    padding: 10px 15px 0px 15px;
+}
+
+.right-part {
+    height: 29.45cm;
+    padding: 0px 20px 0px 20px;
+}
+
+.myname {
+    text-align: center;
+}
+
+.left-key {
+    font-size: 120%;
+    margin-right: 0.25em;
+}
+
+.left-value {
+    margin-left: 1.25em;
+}
+
+.left-separator {
+    margin-bottom: 5px;
+}
+
+.left-outer-section {
+    font-size: 140%;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.left-inner-section {
+    font-size: 90%;
+}
+
+.left-list {
+    margin: 4px;
+    padding-inline-start: 23px;
+    margin-bottom: 15px;
+}
+
+.right-list {
+    margin: 4px;
+    padding-inline-start: 23px;
+}
+
+.right-outer-section {
+    color: cornflowerblue;
+    font-size: 140%;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+
+.right-inner-section-title {
+    font-weight: bold;
+    background-color: #E3E6EC;
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.right-inner-section {
+    margin-left: 10px;
+}
+
+.license {
+    font-weight: normal;
+    font-size: 80%;
+    text-decoration: none;
+}
+
+.small-desc
+{
+    font-size: 95%;
+}
+
+.smaller-desc
+{
+    font-size: 85%;
+}
