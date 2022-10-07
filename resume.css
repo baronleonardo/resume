@@ -14,7 +14,7 @@ a {
 
 .page {
     display: grid;
-    grid-template-columns: 25% 75%;
+    grid-template-columns: 27% 73%;
     width: 21cm;
 }
 
@@ -35,7 +35,7 @@ a {
 }
 
 .left-key {
-    font-size: 120%;
+    font-size: 100%;
     margin-right: 0.25em;
 }
 
@@ -54,25 +54,27 @@ a {
 }
 
 .left-inner-section {
-    font-size: 90%;
+    font-size: 85%;
 }
 
 .left-list {
     margin: 4px;
     padding-inline-start: 23px;
     margin-bottom: 15px;
+    font-size: 90%;
 }
 
 .right-list {
     margin: 4px;
     padding-inline-start: 23px;
+    font-size: 90%;
 }
 
 .right-outer-section {
     color: cornflowerblue;
     font-size: 140%;
     font-weight: bold;
-    margin-top: 40px;
+    margin-top: 30px;
     margin-bottom: 5px;
 }
 
