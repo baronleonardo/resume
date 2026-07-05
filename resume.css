@@ -90,10 +90,11 @@ a {
     margin-left: 10px;
 }
 
-.license {
+.far-right {
+    float: right;
     font-weight: normal;
     font-size: 80%;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .small-desc
